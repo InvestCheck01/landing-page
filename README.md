@@ -4,7 +4,7 @@ Solución web enfocada en brindar una experiencia digital intuitiva, moderna y e
 
 ---
 
-## 👥 Autores / Equipo de Trabajo
+##  Autores / Equipo de Trabajo
 
 | Nombre Completo | Código | Carrera |
 | :--- | :--- | :--- |
@@ -16,7 +16,7 @@ Solución web enfocada en brindar una experiencia digital intuitiva, moderna y e
 
 ---
 
-## 🚀 Descripción de la Startup
+##  Descripción de la Startup
 
 **InvestCheck** nace para cerrar una brecha educativa en el Perú, donde la baja educación financiera expone a muchas personas a fraudes y esquemas piramidales. 
 
@@ -28,7 +28,7 @@ InvestCheck no es una app de inversión ni un bróker: es una plataforma educati
 
 ---
 
-## 📁 Estructura del Proyecto
+##  Estructura del Proyecto
 
 ```text
 landing-page/
